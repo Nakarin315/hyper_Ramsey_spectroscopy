@@ -1,6 +1,6 @@
 # hyper_Ramsey_spectroscopy
 This code demonstrates the advantages of employing Hyper-Ramsey spectroscopy over traditional Ramsey spectroscopy.<be>
-[hyper-ramsey_compare.pdf](https://github.com/Nakarin315/hyper_Ramsey_spectroscopy/files/13643018/hyper-ramsey_compare.pdf)
+![image](https://github.com/Nakarin315/hyper_Ramsey_spectroscopy/assets/93529299/72955821-88f3-4f7d-8df7-e97cf5ad0505)
 
 Ref:<br>
 [1] Yudin, V. I., et al. "Hyper-Ramsey spectroscopy of optical clock transitions." Physical Review A 82.1 (2010): 011804. <br>
