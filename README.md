@@ -1,5 +1,5 @@
 # hyper_Ramsey_spectroscopy
-This code demonstrates the advantages of employing Hyper-Ramsey spectroscopy over traditional Ramsey spectroscopy.<be>
+This code demonstrates the advantages of employing Hyper-Ramsey spectroscopy over traditional Ramsey spectroscopy.<br><br>
 
 ![image](https://github.com/Nakarin315/hyper_Ramsey_spectroscopy/assets/93529299/72955821-88f3-4f7d-8df7-e97cf5ad0505)
 
